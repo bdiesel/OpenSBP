@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = OpenSBP::VERSION
   spec.authors       = ["Brian Diesel"]
   spec.email         = ["bri@ndiesel.net"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "OpenSBP to control shopbot from ruby"
+  spec.summary       = "OpenSBP to control shopbot from ruby"
   spec.homepage      = ""
   spec.license       = "MIT"
 

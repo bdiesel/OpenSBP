@@ -1,6 +1,6 @@
 # OpenSBP
 
-TODO: Write a gem description
+TODO: This gem is used to control  a ShopBot
 
 ## Installation
 
